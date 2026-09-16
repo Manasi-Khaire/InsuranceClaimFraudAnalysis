@@ -142,12 +142,12 @@ Fraud Prediction Agent       Damage Assessment Agent
 
 ### 🚗 Vehicle Damage Assessment
 
-- Vehicle image preprocessing and validation using OpenCV
-- Damage detection using YOLOv8
-- Damage localization and bounding box identification
-- Severity assessment based on detected damage regions
-- Visual evidence generation for claim investigation
-- Evidence-based claim validation
+- Vehicle image preprocessing and enhancement using OpenCV
+- Automated damage detection using YOLOv8
+- Damage localization and affected area identification
+- Damage severity assessment
+- Visual evidence generation for investigators
+- Evidence-based validation to support fraud analysis
 
 ### 🔄 Multi-Agent Workflow
 
