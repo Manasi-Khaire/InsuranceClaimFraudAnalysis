@@ -1,0 +1,49 @@
+# Virtual Environments
+.venv/
+venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Runtime Generated Files
+uploads/
+reports/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Project Documentation
+PRD.md
+ARCHITECTURE.md
+
+# Temporary Files
+temp/
+tmp/
+
+# Build Artifacts
+build/
+dist/
+*.egg-info/
+
+# YOLO Training Artifacts
+runs/
+
+# Optional: Ignore downloaded model weights
+yolov8n.pt
