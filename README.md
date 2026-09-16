@@ -113,7 +113,7 @@ Responsible for:
           │                             │
           ▼                             ▼
 Fraud Prediction Agent       Damage Assessment Agent
- (Random Forest)                   (YOLOv8)
+ (Random Forest)                   (YOLOv8 + OpenCV)
           │                             │
           └──────────────┬──────────────┘
                          ▼
